@@ -18,6 +18,15 @@ Simple web based game engine built on [three.js](https://github.com/mrdoob/three
 
 Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.
 
+## 📚 Documentation
+
+- [API Documentation](docs/API.md) - Detailed API reference
+- [Development Guide](docs/DEVELOPMENT.md) - Development environment setup and build
+- [Architecture Design](docs/ARCHITECTURE.md) - System architecture and design patterns
+- [Tutorial](docs/TUTORIAL.md) - Quick start and usage examples
+- [FAQ](docs/FAQ.md) - Frequently asked questions
+- [Contributing Guide](docs/CONTRIBUTING.md) - How to contribute to the project
+
 ## Features
 
 * World
